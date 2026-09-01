@@ -12,14 +12,14 @@
   <tr>
     <td width="60%" valign="top">
 
-## 🌷 Sobre mí
+## Sobre mí
 
 ¡Hola! Soy **Melanie**, una desarrolladora de software en formación de **El Salvador**.  
 Me apasiona crear proyectos de **desarrollo web, móvil e inteligencia artificial**.
 
 Actualmente estudio **Bachillerato Técnico en Desarrollo de Software** y disfruto aprender nuevas tecnologías, mejorar mis habilidades y convertir ideas en proyectos reales.
 
-✨ Me interesa especialmente:
+Me interesa especialmente:
 - el desarrollo **web**
 - las aplicaciones **móviles**
 - la **inteligencia artificial**
@@ -90,17 +90,6 @@ Cuando no estoy programando, normalmente estoy aprendiendo algo nuevo o mejorand
 
 ## 🚀 Proyectos destacados
 
-### 🤟 LESS.AI
-Proyecto de tecnología asistiva enfocado en accesibilidad y reconocimiento de lenguaje de señas mediante inteligencia artificial.
-
-### 🍎 FreshVision AI
-Proyecto de visión por computadora para analizar visualmente el estado de alimentos mediante clasificación de imágenes.
-
-### 🌎 Guardianes del Patrimonio
-Aplicación móvil diseñada para explorar el patrimonio cultural a través de misiones, trivias y gamificación.
-
-### 📚 ArrupeBook
-Sistema de gestión bibliotecaria con préstamos, reservas, multas y estructura de base de datos.
 
 ---
 
