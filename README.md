@@ -1,115 +1,121 @@
+<h1 align="center">🎀 Hola, soy Melanie ♡</h1>
+
 <p align="center">
-  <img src="AQUI_VA_TU_BANNER" alt="banner" width="100%" />
+  <b>Desarrolladora de software en formación · Web · Móvil · IA</b>
 </p>
 
 <p align="center">
-  <b style="color:#ff4fa3;">un paso a la vez ✦</b>
+  ⋆｡°✩ convirtiendo ideas lindas en proyectos reales ✩°｡⋆
 </p>
 
 ---
 
 <table>
-  <tr>
-    <td width="60%" valign="top">
+<tr>
+<td width="60%" valign="top">
 
-## Sobre mí
+## 🌷 Sobre mí
 
-¡Hola! Soy **Melanie**, una desarrolladora de software en formación de **El Salvador**.  
-Me apasiona crear proyectos de **desarrollo web, móvil e inteligencia artificial**.
+¡Holaa! Soy **Melanie** 💗  
+Soy estudiante de Desarrollo de Software en El Salvador y me encanta crear proyectos que mezclen tecnología, creatividad y utilidad.
 
-Actualmente estudio **Bachillerato Técnico en Desarrollo de Software** y disfruto aprender nuevas tecnologías, mejorar mis habilidades y convertir ideas en proyectos reales.
+Me interesa especialmente el desarrollo de aplicaciones **web y móviles**, las **bases de datos** y la **inteligencia artificial**.
 
-Me interesa especialmente:
-- el desarrollo **web**
-- las aplicaciones **móviles**
-- la **inteligencia artificial**
-- los proyectos con impacto útil y creativo
+Actualmente sigo aprendiendo nuevas tecnologías y mejorando mis proyectos poquito a poquito. ♡
 
-Cuando no estoy programando, normalmente estoy aprendiendo algo nuevo o mejorando uno de mis proyectos personales.
+🎀 Me gusta trabajar con:
+- Desarrollo web
+- Aplicaciones móviles
+- Inteligencia artificial
+- Bases de datos
+- Interfaces bonitas y funcionales
 
-   </td>
-    <td width="40%" align="center" valign="top">
-      <img src="AQUI_VA_TU_IMAGEN_PIXEL_O_AESTHETIC" width="100%" alt="pixel art" />
-    </td>
-  </tr>
+</td>
+
+<td width="40%" align="center">
+
+<img src="TU_IMAGEN_CUTE_AQUI" width="250"/>
+
+</td>
+</tr>
 </table>
 
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/%20PROGRAMMING%20LANGUAGES-ff4fa3?style=for-the-badge" />
+<img src="https://img.shields.io/badge/♡%20LENGUAJES%20♡-F8C8DC?style=for-the-badge&labelColor=F8C8DC&color=F8C8DC"/>
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,ts,python,dart" />
+<img src="https://skillicons.dev/icons?i=java,js,ts,python,dart"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/%20FRONTEND-ff4fa3?style=for-the-badge" />
+<img src="https://img.shields.io/badge/♡%20FRONTEND%20♡-FFB6C1?style=for-the-badge"/>
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,react" />
+<img src="https://skillicons.dev/icons?i=html,css,react"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/%20MOBILE-ff4fa3?style=for-the-badge" />
+<img src="https://img.shields.io/badge/♡%20MOBILE%20♡-FADADD?style=for-the-badge"/>
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,react" />
+<img src="https://skillicons.dev/icons?i=flutter,react"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/%20BACKEND-ff4fa3?style=for-the-badge" />
+<img src="https://img.shields.io/badge/♡%20BACKEND%20♡-FF8FAB?style=for-the-badge"/>
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=spring,nodejs" />
+<img src="https://skillicons.dev/icons?i=spring,nodejs"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/%20BASES%20DE%20DATOS-ff4fa3?style=for-the-badge" />
+<img src="https://img.shields.io/badge/♡%20BASES%20DE%20DATOS%20♡-D8B4FE?style=for-the-badge"/>
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/SQL%20Server-111827?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=mysql"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/%20HERRAMIENTAS-ff4fa3?style=for-the-badge" />
+<img src="https://img.shields.io/badge/♡%20HERRAMIENTAS%20♡-F8C8DC?style=for-the-badge"/>
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
-</p>
-
----
-
-## 🚀 Proyectos destacados
-
-
----
-
-## 📊 Estadísticas
-
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=mlhndzz&show_icons=true&theme=radical&hide_border=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mlhndzz&layout=compact&theme=radical&hide_border=true" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma"/>
 </p>
 
 ---
 
-## 🌐 Contacto
+## 🎀 Proyectos destacados
 
-- 💼 **Portafolio:** AQUI_TU_LINK
-- 📧 **Correo:** AQUI_TU_CORREO
-- 🔗 **LinkedIn:** AQUI_TU_LINKEDIN
+---
+
+## 💗 Estadísticas
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=mlhndzz&show_icons=true&theme=rose_pine&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mlhndzz&layout=compact&theme=rose_pine&hide_border=true"/>
+</p>
+
+---
+
+## 💌 Contacto
+
+🎀 Portafolio: `TU LINK`  
+🌷 LinkedIn: `TU LINK`  
+💌 Correo: `TU CORREO`
 
 ---
 
 <p align="center">
-  <i>Siempre aprendiendo, construyendo y mejorando un proyecto a la vez. 💗</i>
+  ♡ aprendiendo, creando y creciendo un proyecto a la vez ♡
 </p>
