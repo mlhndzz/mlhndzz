@@ -1,84 +1,126 @@
-<h1 align="center">Hi, I'm Melanie ✨</h1>
-<h3 align="center">Software Development Student | Web, Mobile & AI</h3>
+<p align="center">
+  <img src="AQUI_VA_TU_BANNER" alt="banner" width="100%" />
+</p>
 
 <p align="center">
-  Passionate about building useful, creative and accessible software.
+  <b style="color:#ff4fa3;">un paso a la vez ✦</b>
 </p>
 
 ---
 
-## 🌷 About Me
+<table>
+  <tr>
+    <td width="60%" valign="top">
 
-- 💻 Software Development student from El Salvador
-- 📱 Interested in mobile development, web apps and artificial intelligence
-- 🧠 I enjoy turning ideas into real projects
-- 🌱 Currently learning: React Native, Flutter, Spring Boot and AI
-- 🎯 Goal: become a professional software developer and build impactful technology
+## 🌷 Sobre mí
 
----
+¡Hola! Soy **Melanie**, una desarrolladora de software en formación de **El Salvador**.  
+Me apasiona crear proyectos de **desarrollo web, móvil e inteligencia artificial**.
 
-## 🛠️ Tech Stack
+Actualmente estudio **Bachillerato Técnico en Desarrollo de Software** y disfruto aprender nuevas tecnologías, mejorar mis habilidades y convertir ideas en proyectos reales.
 
-### Programming Languages
-![Java](https://img.shields.io/badge/Java-111111?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-111111?style=for-the-badge&logo=typescript&logoColor=3178C6)
-![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=3776AB)
-![Dart](https://img.shields.io/badge/Dart-111111?style=for-the-badge&logo=dart&logoColor=0175C2)
+✨ Me interesa especialmente:
+- el desarrollo **web**
+- las aplicaciones **móviles**
+- la **inteligencia artificial**
+- los proyectos con impacto útil y creativo
 
-### Frontend & Mobile
-![React](https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-111111?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Flutter](https://img.shields.io/badge/Flutter-111111?style=for-the-badge&logo=flutter&logoColor=02569B)
-![HTML5](https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3&logoColor=1572B6)
+Cuando no estoy programando, normalmente estoy aprendiendo algo nuevo o mejorando uno de mis proyectos personales.
 
-### Backend & Databases
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-111111?style=for-the-badge&logo=springboot&logoColor=6DB33F)
-![MySQL](https://img.shields.io/badge/MySQL-111111?style=for-the-badge&logo=mysql&logoColor=4479A1)
-![SQL Server](https://img.shields.io/badge/SQL_Server-111111?style=for-the-badge&logo=microsoftsqlserver&logoColor=CC2927)
-
-### Tools
-![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-111111?style=for-the-badge&logo=figma&logoColor=F24E1E)
-![VS Code](https://img.shields.io/badge/VS_Code-111111?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
+   </td>
+    <td width="40%" align="center" valign="top">
+      <img src="AQUI_VA_TU_IMAGEN_PIXEL_O_AESTHETIC" width="100%" alt="pixel art" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🚀 Featured Projects
+<p align="center">
+  <img src="https://img.shields.io/badge/%20PROGRAMMING%20LANGUAGES-ff4fa3?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,js,ts,python,dart" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/%20FRONTEND-ff4fa3?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,react" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/%20MOBILE-ff4fa3?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,react" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/%20BACKEND-ff4fa3?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=spring,nodejs" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/%20BASES%20DE%20DATOS-ff4fa3?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/SQL%20Server-111827?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/%20HERRAMIENTAS-ff4fa3?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+</p>
+
+---
+
+## 🚀 Proyectos destacados
 
 ### 🤟 LESS.AI
-An assistive technology project focused on accessibility and sign language recognition using AI.
+Proyecto de tecnología asistiva enfocado en accesibilidad y reconocimiento de lenguaje de señas mediante inteligencia artificial.
 
 ### 🍎 FreshVision AI
-A computer vision project to analyze the visual condition of food through image classification.
+Proyecto de visión por computadora para analizar visualmente el estado de alimentos mediante clasificación de imágenes.
 
 ### 🌎 Guardianes del Patrimonio
-A mobile app designed to explore cultural heritage through missions, trivia and gamification.
+Aplicación móvil diseñada para explorar el patrimonio cultural a través de misiones, trivias y gamificación.
 
 ### 📚 ArrupeBook
-A database and management system for library processes, loans, reservations and fines.
+Sistema de gestión bibliotecaria con préstamos, reservas, multas y estructura de base de datos.
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Estadísticas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mlhndzz&show_icons=true&theme=radical" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mlhndzz&layout=compact&theme=radical" height="160"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=mlhndzz&show_icons=true&theme=radical&hide_border=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mlhndzz&layout=compact&theme=radical&hide_border=true" />
 </p>
 
 ---
 
-## 🌐 Connect with Me
+## 🌐 Contacto
 
-- 💼 Portfolio: [your-portfolio-link]
-- 📧 Email: [your-email]
-- 🔗 LinkedIn: [your-linkedin]
+- 💼 **Portafolio:** AQUI_TU_LINK
+- 📧 **Correo:** AQUI_TU_CORREO
+- 🔗 **LinkedIn:** AQUI_TU_LINKEDIN
 
 ---
 
 <p align="center">
-  <i>Building, learning and improving one project at a time ✨</i>
+  <i>Siempre aprendiendo, construyendo y mejorando un proyecto a la vez. 💗</i>
 </p>
