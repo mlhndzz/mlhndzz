@@ -1,4 +1,4 @@
-<h1 align="center">🎀 Hola, soy Melanie ♡</h1>
+<h1 align="center">Hola, soy Melanie </h1>
 
 <p align="center">
   <b>Desarrolladora de software en formación · Web · Móvil · IA</b>
@@ -14,16 +14,16 @@
 <tr>
 <td width="60%" valign="top">
 
-## 🌷 Sobre mí
+## Sobre mí
 
-¡Holaa! Soy **Melanie** 💗  
+¡Holaa! Soy **Melanie**   
 Soy estudiante de Desarrollo de Software en El Salvador y me encanta crear proyectos que mezclen tecnología, creatividad y utilidad.
 
 Me interesa especialmente el desarrollo de aplicaciones **web y móviles**, las **bases de datos** y la **inteligencia artificial**.
 
 Actualmente sigo aprendiendo nuevas tecnologías y mejorando mis proyectos poquito a poquito. ♡
 
-🎀 Me gusta trabajar con:
+Manejo
 - Desarrollo web
 - Aplicaciones móviles
 - Inteligencia artificial
@@ -92,11 +92,11 @@ Actualmente sigo aprendiendo nuevas tecnologías y mejorando mis proyectos poqui
 
 ---
 
-## 🎀 Proyectos destacados
+## Proyectos destacados
 
 ---
 
-## 💗 Estadísticas
+## Estadísticas
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=mlhndzz&show_icons=true&theme=rose_pine&hide_border=true"/>
@@ -108,14 +108,14 @@ Actualmente sigo aprendiendo nuevas tecnologías y mejorando mis proyectos poqui
 
 ---
 
-## 💌 Contacto
+## Contacto
 
-🎀 Portafolio: `TU LINK`  
-🌷 LinkedIn: `TU LINK`  
-💌 Correo: `TU CORREO`
+ Portafolio: `TU LINK`  
+ LinkedIn: `TU LINK`  
+ Correo: `TU CORREO`
 
 ---
 
 <p align="center">
-  ♡ aprendiendo, creando y creciendo un proyecto a la vez ♡
+  aprendiendo, creando y creciendo un proyecto a la vez 
 </p>
